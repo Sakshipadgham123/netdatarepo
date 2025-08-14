@@ -1,0 +1,13 @@
+# Netdata Monitoring
+
+## Objective
+Installed Netdata via Docker to monitor system performance metrics.
+
+## Steps
+1. Installed Docker.
+2. Pulled and ran Netdata container.
+3. Accessed dashboard at `http://localhost:19999`.
+4. Explored CPU, Memory, Disk, and Docker container metrics.
+5. Checked alerts and logs.
+
+
